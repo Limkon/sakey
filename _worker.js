@@ -52,6 +52,7 @@ async function handleRequest(request) {
     { url: "https://www.githubip.xyz/Alvin9999/PAC/master/naiveproxy/config.json", type: "naive" },
     { url: "https://fastly.jsdelivr.net/gh/Alvin9999/PAC@latest/naiveproxy/config.json", type: "naive" },
     { url: "https://jxio.nyc.mn/tools/sub/xio", type: "subscription" },
+    { url: "https://719992c7df5.foxtiming.com/sub/c9b15ee0add901664ac08ec90252cfb5#Foxtiming", type: "subscription", isBase64: true },
     { url: "https://odbar.stdu.nyc.mn/v2ray", type: "subscription", isBase64: true },
   ];
 
